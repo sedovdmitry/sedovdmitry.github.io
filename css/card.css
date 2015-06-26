@@ -81,8 +81,8 @@
 	line-height: 1;
 	margin: 5px 0 0 0;
 	color: #3b393d;
-	background-color: #000;
-	opacity: 0.8;
+	/*background-color: #000;
+	opacity: 0.8;*/
 }
 
 .card__container--closed .card__title {
