@@ -82,7 +82,7 @@
 	margin: 5px 0 0 0;
 	color: #3b393d;
 	background-color: #000;
-	opacity: 0.9;
+	opacity: 0.8;
 }
 
 .card__container--closed .card__title {
@@ -95,7 +95,7 @@
 	margin: 5px 0 0;
 	color: #777778;
 	background-color: #000;
-	opacity: 0.9;
+	opacity: 0.8;
 }
 
 .card__container--closed .card__subtitle {
