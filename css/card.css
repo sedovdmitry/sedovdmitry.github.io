@@ -92,6 +92,8 @@
 	line-height: 1;
 	margin: 5px 0 0;
 	color: #777778;
+	background-color: #ccc;
+	opacity: 0.7;
 }
 
 .card__container--closed .card__subtitle {
