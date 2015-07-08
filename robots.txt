@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /.git
+Disallow: /css
+Disallow: /fonts
+Disallow: /js
+
+Crawl-delay: 10
+
+User-agent: Yandex
+Disallow: /.git
+Disallow: /css
+Disallow: /fonts
+Disallow: /js
+Crawl-delay: 10
+Host: sedovdmitry.github.io
+Sitemap: http://sedovdmitry.github.io/sitemap.xml.gz
+Sitemap: http://sedovdmitry.github.io/sitemap.xml
